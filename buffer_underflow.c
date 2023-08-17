@@ -1,6 +1,7 @@
 /**
  * Buffer Underwrite ('Buffer Underflow')
  * https://cwe.mitre.org/data/definitions/124.html
+ * Code from https://github.com/patricia-gallardo/insecure-coding-examples/blob/main/exploitable/buffer_underflow.c
  */
 
 #include <string.h>
